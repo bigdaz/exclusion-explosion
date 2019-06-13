@@ -26,14 +26,3 @@ dependencies {
      exclude group: 'G1'
    }
 }
-
-
-{all of [
-  {any of [
-    {exclude group = 'G1'},
-    { module ids = [A:B, A:C]}]},
-  {any of [
-    {exclude group = 'G1'},
-    { module ids = [A:B, A:D]}
-  ]}
-]}
