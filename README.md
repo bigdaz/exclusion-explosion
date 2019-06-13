@@ -1,3 +1,3 @@
 ### Exclusion-explosion
 
-Simple demonstration of a project that simulat
+Simple project that demonstrates a potential explosion of unmerged exclusions.
