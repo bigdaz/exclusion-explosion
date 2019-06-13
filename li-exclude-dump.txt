@@ -1,0 +1,3573 @@
+[{any of [
+	{ module ids = [M12, M13, M14]},
+	{all of [
+		{any of [
+			{ module ids = [M12, M13, M14]},
+			{all of [
+				{any of [
+					{exclude module id = 'M15'},
+					{all of [
+						{any of [
+							{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+							{ groups = [G1, G2, G3, G4]}
+						]},
+						{any of [
+							{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+							{ groups = [G1, G2, G3, G4]}
+						]},
+						{any of [
+							{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+							{ groups = [G1, G2, G3, G4]}
+						]}
+					]}
+				]},
+				{any of [
+					{ module ids = [M1, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+					{ groups = [G1, G2, G3, G4]}
+				]}
+			]}
+		]},
+		{any of [
+			{ module ids = [M12, M13, M14]},
+			{all of [
+				{any of [
+					{ module ids = [M17, M15, M16]},
+					{all of [
+						{any of [
+							{exclude module id = 'M15'},
+							{all of [
+								{any of [
+									{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+								{ groups = [G1, G2, G3, G4]}
+							]},
+							{any of [
+								{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+								{ groups = [G1, G2, G3, G4]}
+							]}
+						]}
+					]},
+					{any of [
+						{ module ids = [M17, M15, M16]},
+						{all of [
+							{any of [
+								{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+								{ groups = [G1, G2, G3, G4]}
+							]},
+							{any of [
+								{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+								{ groups = [G1, G2, G3, G4]}
+							]},
+							{any of [
+								{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+								{ groups = [G1, G2, G3, G4]}
+							]}
+						]}
+					]},
+					{any of [
+						{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+						{ groups = [G1, G2, G3, G4]}
+					]}
+				]}
+			]},
+			{any of [
+				{ module ids = [M15, M16]},
+				{all of [
+					{any of [
+						{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+						{ groups = [G1, G2, G3, G4]}
+					]},
+				{any of [
+					{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+					{ groups = [G1, G2, G3, G4]}
+				]}
+			]}
+		]},
+		{any of [
+			{ module ids = [M1, M5, M18, M19, M2, M3, M20, M4, M7, M8, M21, M22, M9, M10, M11, M23]},
+			{ groups = [G1, G2, G3, G4]}
+		]},
+		{any of [
+			{exclude module id = 'M15'},
+			{all of [
+				{any of [
+					{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+					{ groups = [G1, G2, G3, G4]}
+				]},
+				{any of [
+					{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+					{ groups = [G1, G2, G3, G4]}
+				]}
+			]}
+		]},
+		{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M12, M13, M14]},
+{all of [
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M12, M13, M14]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M15, M16]},
+{all of [
+{any of [
+{ module ids = [M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M12, M13, M14]},
+{all of [
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M12, M13, M14]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M15, M16]},
+{all of [
+{any of [
+{ module ids = [M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M12, M13, M5, M6, M2, M3, M4, M7, M8, M14, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M12, M13, M14]},
+{all of [
+{any of [
+{ module ids = [M1, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M15, M16]},
+{all of [
+{any of [
+{ module ids = [M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M17, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]}
+]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M12, M13, M14]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M15, M16]},
+{all of [
+{any of [
+{ module ids = [M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M12, M13, M14]},
+{all of [
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M12, M13, M14]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M5, M18, M19, M2, M3, M20, M4, M7, M8, M21, M22, M9, M10, M11, M23]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M12, M13, M15, M14]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M12, M13, M14]},
+{all of [
+{any of [
+{ module ids = [M12, M13, M14]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M5, M18, M19, M2, M3, M20, M4, M7, M8, M21, M22, M9, M10, M11, M23]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M12, M13, M15, M14]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M12, M13, M15, M14]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M17, M12, M13, M15, M16, M14]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M12, M13, M15, M14]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M12, M13, M14]},
+{all of [
+{any of [
+{ module ids = [M12, M13, M15, M14]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]}
+]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M5, M18, M19, M2, M3, M20, M4, M7, M8, M21, M22, M9, M10, M11, M23]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M12, M13, M14]},
+{all of [
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M12, M13, M14]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M15, M16]},
+{all of [
+{any of [
+{ module ids = [M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M12, M13, M14]},
+{all of [
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M5, M18, M19, M2, M3, M20, M4, M7, M8, M21, M22, M9, M10, M11, M23]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M12, M13, M14]},
+{all of [
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M12, M13, M14]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M15, M16]},
+{all of [
+{any of [
+{ module ids = [M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M12, M13, M14]},
+{all of [
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M12, M13, M14]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M15, M16]},
+{all of [
+{any of [
+{ module ids = [M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M12, M13, M5, M6, M2, M3, M4, M7, M8, M14, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M12, M13, M14]},
+{all of [
+{any of [
+{ module ids = [M1, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M15, M16]},
+{all of [
+{any of [
+{ module ids = [M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M17, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M12, M13, M14]},
+{all of [
+{any of [
+{ module ids = [M17, M12, M13, M15, M16, M14]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M12, M13, M14]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M12, M13, M14]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M15, M16]},
+{all of [
+{any of [
+{ module ids = [M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]}
+]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M12, M13, M5, M6, M2, M3, M4, M7, M8, M14, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M12, M13, M14]},
+{all of [
+{any of [
+{ module ids = [M12, M13, M14]},
+{all of [
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M12, M13, M14]},
+{all of [
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M5, M18, M19, M2, M3, M20, M4, M7, M8, M21, M22, M9, M10, M11, M23]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M12, M13, M14]},
+{all of [
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M12, M13, M14]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M15, M16]},
+{all of [
+{any of [
+{ module ids = [M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M12, M13, M14]},
+{all of [
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M12, M13, M14]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M15, M16]},
+{all of [
+{any of [
+{ module ids = [M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M12, M13, M5, M6, M2, M3, M4, M7, M8, M14, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M12, M13, M14]},
+{all of [
+{any of [
+{ module ids = [M1, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M15, M16]},
+{all of [
+{any of [
+{ module ids = [M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M17, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M12, M13, M14]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M15, M16]},
+{all of [
+{any of [
+{ module ids = [M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]}
+]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M12, M13, M14]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M12, M13, M14]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M15, M16]},
+{all of [
+{any of [
+{ module ids = [M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M1, M16, M5, M6, M2, M3, M15, M4, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]}
+]}
+]},
+{any of [
+{exclude module id = 'M15'},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M6, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]},
+{any of [
+{ module ids = [M17, M15, M16]},
+{all of [
+{any of [
+{ module ids = [M1, M2, M3, M15, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]},
+{any of [
+{ module ids = [M1, M2, M3, M4, M5, M7, M8, M9, M10, M11]},
+{ groups = [G1, G2, G3, G4]}
+]}
+]}
+]}]

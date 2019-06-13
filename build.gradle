@@ -1,0 +1,39 @@
+allprojects {
+    apply plugin: 'java'
+}
+
+project('sub1') {
+    dependencies {
+       compile project(':sub3')
+    }
+}
+
+project('sub2') {
+    dependencies {
+       compile project(':sub3')
+    }
+}
+
+dependencies {
+   compile(project(':sub1')) {
+      exclude group: 'A', module: 'B'
+      exclude group: 'A', module: 'C'
+      exclude group: 'G1'
+   }
+   compile(project(':sub2')) {
+     exclude group: 'A', module: 'B'
+     exclude group: 'A', module: 'D'
+     exclude group: 'G1'
+   }
+}
+
+
+{all of [
+  {any of [
+    {exclude group = 'G1'},
+    { module ids = [A:B, A:C]}]},
+  {any of [
+    {exclude group = 'G1'},
+    { module ids = [A:B, A:D]}
+  ]}
+]}
